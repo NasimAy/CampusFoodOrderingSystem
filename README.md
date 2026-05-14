@@ -1,13 +1,13 @@
 # Campus Food Delivery System - Design Patterns Refactoring
 
-## 📌 Project Overview
+##  Project Overview
 This project is a Java-based simulation of a university campus food ordering service. The primary goal of this assignment is to demonstrate how software design patterns can transform a rigid, if-else heavy codebase into a maintainable and scalable system.
 
 The system allows students to order food and receive notifications via different channels (Email, SMS, and Push). Initially, this logic was hardcoded within a single class; it has now been refactored using the Factory and Singleton patterns.
 
 ---
 
-## 🛠 Design Patterns Used
+##  Design Patterns Used
 
 ### 1. Factory Pattern
 The **Factory Pattern** is implemented through the `NotificationFactory` class. 
@@ -21,7 +21,7 @@ The **Singleton Pattern** is implemented in the `AppConfig` class.
 
 ---
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
 ### Prerequisites
 * **Java Development Kit (JDK)**: Version 17 or higher is recommended.
@@ -30,4 +30,4 @@ The **Singleton Pattern** is implemented in the `AppConfig` class.
 ### Steps to Run
 1. **Clone the Repository**:
    ```bash
-   git clone [https://github.com/yourusername/CampusFoodOrderingSystem.git](https://github.com/yourusername/CampusFoodOrderingSystem.git)
+   git clone [https://github.com/NasimAy/CampusFoodOrderingSystem.git](https://github.com/NasimAy/CampusFoodOrderingSystem.git)
